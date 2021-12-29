@@ -1,0 +1,46 @@
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\MainWindow.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\App.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger_MarkupCompile.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\bin\Debug\WPFdzMessenger.exe.config
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\bin\Debug\WPFdzMessenger.exe
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\bin\Debug\WPFdzMessenger.pdb
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\MainWindow.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.g.resources
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.Properties.Resources.resources
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.csproj.GenerateResource.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.exe
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger.pdb
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page1.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page2.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page3.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page4.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\WPFdzMessenger_MarkupCompile.lref
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page1.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page2.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page3.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger\WPFdzMessenger\obj\Debug\PAges\Page4.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\bin\Debug\WPFdzMessenger.exe.config
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\bin\Debug\WPFdzMessenger.exe
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\bin\Debug\WPFdzMessenger.pdb
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\MainWindow.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\MainWindow.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page1.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page2.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page3.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page4.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\App.g.cs
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger_MarkupCompile.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger_MarkupCompile.lref
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page1.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page2.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page3.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\PAges\Page4.baml
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.g.resources
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.Properties.Resources.resources
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.csproj.GenerateResource.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.exe
+C:\Users\12345\Desktop\Новая папка (4)\WPFdzMessenger(Сергеев Павел ПИ-225)\WPFdzMessenger\obj\Debug\WPFdzMessenger.pdb
